@@ -1,0 +1,15 @@
+{
+ "categories": [
+  {
+   "count": 1,
+   "dir": "010_shapes",
+   "id": "3d_shapes",
+   "list": "010_shapes/index.json",
+   "title": "도형"
+  }
+ ],
+ "game": "test-c",
+ "plugin": null,
+ "render": {},
+ "schema": "test/models/v1"
+}

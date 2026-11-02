@@ -1,0 +1,24 @@
+{
+ "assets": [
+  {
+   "atlas": true,
+   "first": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 4,
+   "id": "ball_c",
+   "name": "ball_c",
+   "sheet": {
+    "h": 64,
+    "w": 256
+   }
+  }
+ ],
+ "game": "test-c",
+ "group": "010_sprites",
+ "schema": "test/index/v1",
+ "title": "스프라이트"
+}

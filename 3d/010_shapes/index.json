@@ -1,0 +1,18 @@
+{
+ "category": "3d_shapes",
+ "game": "test-c",
+ "items": [
+  {
+   "bytes": 3812,
+   "file": "010_shapes/cube_c.glb",
+   "id": "cube_c",
+   "name": "cube_c",
+   "stats": {
+    "animations": 1
+   },
+   "thumb": "010_shapes/cube_c.webp"
+  }
+ ],
+ "schema": "test/model-list/v1",
+ "title": "도형"
+}
